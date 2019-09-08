@@ -1,0 +1,11 @@
+C:\Users\david\Desktop\Labyrinth\Labyrinth\Labyrinth\bin\Debug\netcoreapp2.1\Labyrinth.deps.json
+C:\Users\david\Desktop\Labyrinth\Labyrinth\Labyrinth\bin\Debug\netcoreapp2.1\Labyrinth.runtimeconfig.json
+C:\Users\david\Desktop\Labyrinth\Labyrinth\Labyrinth\bin\Debug\netcoreapp2.1\Labyrinth.runtimeconfig.dev.json
+C:\Users\david\Desktop\Labyrinth\Labyrinth\Labyrinth\bin\Debug\netcoreapp2.1\Labyrinth.dll
+C:\Users\david\Desktop\Labyrinth\Labyrinth\Labyrinth\bin\Debug\netcoreapp2.1\Labyrinth.pdb
+C:\Users\david\Desktop\Labyrinth\Labyrinth\Labyrinth\obj\Debug\netcoreapp2.1\Labyrinth.csprojAssemblyReference.cache
+C:\Users\david\Desktop\Labyrinth\Labyrinth\Labyrinth\obj\Debug\netcoreapp2.1\Labyrinth.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Labyrinth\Labyrinth\Labyrinth\obj\Debug\netcoreapp2.1\Labyrinth.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Labyrinth\Labyrinth\Labyrinth\obj\Debug\netcoreapp2.1\Labyrinth.AssemblyInfo.cs
+C:\Users\david\Desktop\Labyrinth\Labyrinth\Labyrinth\obj\Debug\netcoreapp2.1\Labyrinth.dll
+C:\Users\david\Desktop\Labyrinth\Labyrinth\Labyrinth\obj\Debug\netcoreapp2.1\Labyrinth.pdb
